@@ -3,30 +3,4 @@
   width: 97%;
   border: 1px solid black
 }
-.resume-continaer{
-  height:100%;
-  width:100;
-  border:1px solid purple;
-
-}
-.sidebar {
-  height:100%;
-  width:30%;
-  border:1px solid blue;
-  display: inline-block;
-
-}
-h1{
-  height:50%;
-  width: 50%;
-  border:1px solid red;
-  display: inline-block;
-
-}
-.leftbar {
-  height:100%;
-  width:66%;
-  border:1px solid black;
-  display: inline-block;
-
-}
+ 
