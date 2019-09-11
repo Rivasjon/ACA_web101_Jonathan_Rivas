@@ -1,16 +1,16 @@
-.title {
-height: 100%;
-width: 100%;
-border: 1px solid black;
+h1{
+  color:blue; width:60%;
+  margin:5% auto;
 }
-.header{
-  height: 100%;
-  width: 100%;
-  border: 1px solid blue
+body {
+  background:gray;
+  width:60%;
+  margin:5% auto;
 }
-.main{
-
+main{ 
+color:black;
 }
-.article{
-  
+article {
+ margin:1%;
+  border:2px solid green;
 }
