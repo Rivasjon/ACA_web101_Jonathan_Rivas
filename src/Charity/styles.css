@@ -3,7 +3,14 @@ html, body {
   margin: 0px;
   padding: 0px;
 }
-
+img{
+  background-repeat: no-repeat
+}
+.picture-container{
+  position: relative;
+  text-align: center;
+  
+}
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
